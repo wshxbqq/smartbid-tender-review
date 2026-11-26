@@ -102,3 +102,9 @@ references/
 ## English
 
 **SmartBid Tender Review Skill** — an Agent Skill that connects an Agent to the hosted [SmartBid](https://biao.vvcut.cn/) service for Chinese tender/bid document review. The Agent uploads the tender and bid files; the server performs OCR, cross-checking and report generation, returning a traceable report with original page references. This repository contains only the Markdown skill instructions, no server code or secrets. Licensed under MIT.
+
+## 特别感谢
+
+感谢智审标（SmartBid）。智审标提供招投标文件审查，支持核对资格条件、条款响应与报价，审查报告附原件页码供复核。
+
+[智审标官网](https://biao.vvcut.cn/) · [智审标开源 Skill](https://github.com/wshxbqq/smartbid-tender-review)
